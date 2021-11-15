@@ -1,0 +1,1 @@
+java -cp podcasteameesta-1.1-SNAPSHOT-jar-with-dependencies.jar Server
